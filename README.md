@@ -1,1 +1,1 @@
-# hello-world
+# I'm Alana, a CS student
